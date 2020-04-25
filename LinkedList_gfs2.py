@@ -1,4 +1,4 @@
-class Node:
+class Node:  # to find number of duplicates in the given linked list
     def __init__(self,data):
         self.data =data
         self.next =None
@@ -59,5 +59,5 @@ linkedList.insert(thirdNode)
 fourthNode = Node(3)
 linkedList.insert(fourthNode)
             
-l =linkedList.repeat(8)
+l =linkedList.repeat(1)
 print(l)
