@@ -46,4 +46,4 @@ insert(r,Node(10))
 insert(r,Node(14))
 
 
-print(floor(r,7))
+print(floor(r,9))
