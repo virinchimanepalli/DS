@@ -53,7 +53,7 @@ linkedList = LinkedList()
 firstNode =Node(1)
 linkedList.insert(firstNode)
 secondNode =Node(1)
-linkedList.insert(secondNode)
+linkedList.insert(secondNode)git 
 thirdNode =Node(2)
 linkedList.insert(thirdNode)
 fourthNode = Node(3)
